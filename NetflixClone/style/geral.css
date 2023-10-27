@@ -22,7 +22,7 @@ header, footer{
 aside{ /*o aside partido ao meio para poder dividir e centralizado o cabeçalho*/
     width: 50%;
     height: 100%;
-    background-color: aqua;
+    background-color: black;
     display: flex;
     align-items: center;
 
